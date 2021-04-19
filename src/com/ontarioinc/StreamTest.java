@@ -26,7 +26,7 @@ public class StreamTest {
 	public static void slice() {
 		List<String> countries = new ArrayList<>();
         countries.add("India");
-        countries.add("USA");
+        countries.add("USA"); 
         countries.add("China");
         countries.add("India");
         countries.add("UK");
